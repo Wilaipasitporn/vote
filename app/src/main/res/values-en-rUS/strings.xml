@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="nubtoy">Count Down To Election Day</string>
+    <string name="next">NEXT</string>
+    <string name="days">Days</string>
+    <string name="seconds">Seconds</string>
+    <string name="hour">Hours</string>
+    <string name="min">Minutes</string>
+</resources>
